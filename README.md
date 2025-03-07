@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# Stats
+![tc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzechong94&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzechong94&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+
 <!--
 **tzechong94/tzechong94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
