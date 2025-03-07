@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 # Stats
-![tc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzechong94&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzechong94&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tzechong94&show_icons=true&locale=en&layout=compact" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tzechong94&show_icons=true&locale=en" /></p>
 
 
 <!--
